@@ -7,7 +7,7 @@
 ## استفاده
 
 - **آنلاین:** لینک زیر را در مرورگر باز کن، بدون نصب و ثبت‌نام.
-  `https://USERNAME.github.io/REPO-NAME/`
+  `https://forexvid.github.io/RTrex-Trading-RoadMap/`
 - **آفلاین:** فایل `index.html` را دانلود کن و در مرورگر باز کن.
 
 ## امکانات
